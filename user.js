@@ -29,9 +29,6 @@ $(document).ready(function(){
         }
 
 })
-$("#reset").click(function(e){
-    location.href("./user.html") ;
-})
 
 });
 
